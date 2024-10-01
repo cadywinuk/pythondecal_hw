@@ -1,0 +1,10 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+python gets me into python cd moves be between directories and ls lists the contents of the direcctory I am in
+2. Do you have pets? What kind?
+Yes 10 pets: 2 twin dogs, 3 cats, chiwawa, weiner dog, 3 rabbits,
+3. If you run across an error, what would your first course of action be?
+I should check my spelling because I probably tyoed it wrong
+4. Funniest thing that happened to you in high school.
+I created the position of dance captain on my cheer team and nonimated myself for college apps because I was already choreographing, BUT I forgot that I did this in may during the award ceremony and me and my whole team was surprised that I got a dance captain medal forr the frist time ever.
+5. What is a python script? (Keep it simple)
+Files that run with python
